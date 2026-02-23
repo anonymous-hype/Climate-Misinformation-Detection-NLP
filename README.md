@@ -135,5 +135,3 @@ The model demonstrates moderate ability to distinguish between true and misleadi
 - Model deployment using Flask or Streamlit  
 
 ---
-
-## 💾 Project Structure
